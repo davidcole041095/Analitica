@@ -1,4 +1,4 @@
-# CALSIFICACIÓN DE IMÁGENES
+# CLASIFICACIÓN DE IMÁGENES
 
 Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", en el cual aplicaremos diferentes técnicas para conseguir el objetivo.
 
