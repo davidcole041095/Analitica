@@ -1,8 +1,10 @@
 # CLASIFICACIÓN DE IMÁGENES
 
-Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", en el cual aplicaremos diferentes técnicas para conseguir el objetivo.
+Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", donde se encuentran imágenes de dos vegetales: el culantro y el perejil; ya que, incluso hoy en día se hace complicado diferenciar ambos, sobretood a las personas que no están familiarizadas con la cocina.
 
-## Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
+
+
+Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 
 "Imagen curva ROC y AUC"
 
