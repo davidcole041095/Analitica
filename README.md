@@ -1,8 +1,9 @@
 # CALSIFICACIÓN DE IMÁGENES
 
-Repotes de Operaciones
+Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", en el cual aplicaremos diferentes técnicas para conseguir el objetivo.
 
-* Usamos la validación del 20% de nuestro modelo y un train del 80% para la clasificacón de imágenes de nuestro dataset	
+
+* Usamos la validación del 30% de nuestro modelo y un train del 70% para la clasificacón de imágenes de nuestro dataset	
 * Usamos las siguientes técnicas: 
 	* Regresión logística
 	* Análisis discriminante
