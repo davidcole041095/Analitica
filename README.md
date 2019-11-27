@@ -2,7 +2,7 @@
 
 Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", en el cual aplicaremos diferentes técnicas para conseguir el objetivo.
 
-Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
+## Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 
 "Imagen curva ROC y AUC"
 
