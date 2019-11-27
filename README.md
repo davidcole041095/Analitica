@@ -7,9 +7,12 @@ CULANTRO
 ![Culantro](https://github.com/davidcole041095/Analitica/blob/master/culantro.jpg)   
 
 
+
 PEREJIL
 
 ![Perejil](https://github.com/davidcole041095/Analitica/blob/master/perejil.jpg)
+
+Como se puede apreciar en las dos imágenes anteriores, ambos vegetales, son similares, por lo que causa una confusión al momento de identificarlas.
 
 Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 
