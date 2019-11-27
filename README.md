@@ -2,7 +2,8 @@
 
 Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", donde se encuentran imágenes de dos vegetales: el culantro y el perejil; ya que, incluso hoy en día se hace complicado diferenciar ambos, sobretood a las personas que no están familiarizadas con la cocina.
 
-![Culantro](https://github.com/davidcole041095/Analitica/blob/master/culantro.jpg)
+CULANTRO										PEREJIL
+![Culantro](https://github.com/davidcole041095/Analitica/blob/master/culantro.jpg)     ![Culantro](https://github.com/davidcole041095/Analitica/blob/master/culantro.jpg)
 
 Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 
