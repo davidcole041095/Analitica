@@ -14,10 +14,6 @@ PEREJIL
 
 Como se puede apreciar en las dos imágenes anteriores, ambos vegetales, son similares, por lo que causa una confusión al momento de identificarlas.
 
-Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
-
-"Imagen curva ROC y AUC"
-
 * Usamos la validación del 30% de nuestro modelo y un train del 70% para la clasificacón de imágenes de nuestro dataset	
 * Usamos las siguientes técnicas: 
 	* Regresión logística
@@ -30,3 +26,7 @@ Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 El trabajo fue realizado en Google Colab:
 
 https://colab.research.google.com/drive/1y6IhtIqPAYpd5i_sJonM_3fhmRZ8xm1l?authuser=2#scrollTo=5Qlszsl59JEY
+
+Autores:
+* David Cole
+* Mario Llaque
