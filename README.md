@@ -26,3 +26,7 @@ Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 	* Árbol de clasificación
 	* Naive Bayer
 	* SVC Suport vector machine cassifier
+
+El trabajo fue realizado en Google Colab:
+
+https://colab.research.google.com/drive/1y6IhtIqPAYpd5i_sJonM_3fhmRZ8xm1l?authuser=2#scrollTo=5Qlszsl59JEY
