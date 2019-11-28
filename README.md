@@ -1,6 +1,6 @@
 # CLASIFICACIÓN DE IMÁGENES
 
-Con este proyecto nos interesa porbar las diferentes técnicas de la analítica para poder realizar una clsificación de imágenes de nuestro dataset "datasetName", donde se encuentran imágenes de dos vegetales: el culantro y el perejil; ya que, incluso hoy en día se hace complicado diferenciar ambos, sobretood a las personas que no están familiarizadas con la cocina.
+Con este proyecto nos interesa probar las diferentes técnicas de la analítica para poder realizar una clasificación de imágenes de nuestro dataset, donde se encuentran imágenes de dos vegetales: el culantro y el perejil; ya que, incluso hoy en día se hace complicado diferenciar ambos, sobretodo a las personas que no están familiarizadas con la cocina.
 
 CULANTRO
 
@@ -26,9 +26,3 @@ Además generamos una curva ROC para poder obtener un AUC de nuestro modelo
 	* Árbol de clasificación
 	* Naive Bayer
 	* SVC Suport vector machine cassifier
-
-Finalmente hemos desarrollado una interfaz para que el usuario pueda usar el programa desarrollado.
-
-A contunación imágens de nuestros resultados obtenidos:
-
-"imágenes"
